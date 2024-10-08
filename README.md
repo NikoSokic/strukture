@@ -1,2 +1,3 @@
 # strukture
 strava
+strasno
